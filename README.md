@@ -5,7 +5,7 @@
 I'm a dedicated full-stack developer with a deep passion for creating community-focused applications and uplifting the tech community. I am proud to play a role in organizing and leading tech meetups and hackathons, such as 'The Digital Builders Present The Black-athon,' to promote diversity, equity, and inclusion in technology. My journey has taken me from a truck driver to a software engineer, and now, as the Director of Technology at Social Supply and a Software Engineer at Washington's Hammer, I strive to make impactful contributions in every role.
 
 🌍  I'm based in Virginia Beach
-✉️  You can contact me at lionel.sapp@gmail.com
+✉️  You can contact me at lionel.thebldrs@gmail.com
 🚀  I'm currently working on a text-based game on Digital Builders 757.com, where users build characters, fight others, and learn to code through AI-generated stories.
 🧠  I'm learning TypeScript and Next.js
 
