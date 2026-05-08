@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Lionel Sapp — The Builder Who Remembered
+# 👋 Hi, I’m Lionel The Builder 
 
 ### Soulful Software Engineer • Community Catalyst • 
 
